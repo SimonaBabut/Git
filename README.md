@@ -1,3 +1,3 @@
 # Git
 
-## Acest repository este prima lectie.
+## Acest repository este prima lectie. 
